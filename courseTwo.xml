@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>7</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>7</endIndex>
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-SD-214x144-1-therescue.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-HD-290x218-1-therescue.jpg">
+		<title>Rescue</title>
+		<contentId>10010</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>600</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/116242402.hd.mp4?s=4bb901f8cf5632a161084a224f04196f</streamUrl>
+		</media>
+		<synopsis>The cross is ultimately all about our need to be rescued.</synopsis>
+		<genres>Clip</genres>
+		<runtime>481</runtime>
+	</item>	
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-SD-214x144-2-theincarnation.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-HD-290x218-2-theincarnation.jpg">
+		<title>Incarnation</title>
+		<contentId>10011</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/116259202.hd.mp4?s=47741ca120c94a009f845a4a0a59dbf8</streamUrl>
+		</media>
+		<synopsis>Why was it so important for “God to become flesh”?</synopsis>
+		<genres>Clip</genres>
+		<runtime>466</runtime>
+	</item>	
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-SD-214x144-3-thecrucifixion.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-HD-290x218-3-thecrucifixion.jpg">
+		<title>Crucifixion</title>
+		<contentId>10012</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/116263093.hd.mp4?s=89ed66a1fad62660f17d3aed8e2f7ea1</streamUrl>
+		</media>
+		<synopsis>The biggest object of shame and disgrace became the visual marker of identity for Christians. The cross gives the Christian a new identity.</synopsis>
+		<genres>Clip</genres>
+		<runtime>531</runtime>
+	</item>	
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-SD-214x144-4-theresurrection.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-HD-290x218-4-theresurrection.jpg">
+		<title>Resurrection</title>
+		<contentId>10013</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/116278904.hd.mp4?s=86d10ca06a68bf3d38ec74c70a433f4f</streamUrl>
+		</media>
+		<synopsis>How does the Resurrection of Christ fill us with courage and hope?</synopsis>
+		<genres>Clip</genres>
+		<runtime>603</runtime>
+	</item>
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-SD-214x144-5-thenewlife.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-HD-290x218-5-thenewlife.jpg">
+		<title>New Life</title>
+		<contentId>10014</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/116284724.hd.mp4?s=8143ce783720e463fff96817bbf2c47e</streamUrl>
+		</media>
+		<synopsis>We all have had moments we wish to have back. New life. That is at the heart of what the cross offers us.</synopsis>
+		<genres>Clip</genres>
+		<runtime>468</runtime>
+	</item>
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-SD-214x144-6-thekingdom.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course2-theCross-HD-290x218-6-thekingdom.jpg">
+		<title>Kingdom</title>
+		<contentId>10015</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/116294789.hd.mp4?s=ea895bbe558086024c96e6e5469a038d</streamUrl>
+		</media>
+		<synopsis>Jesus declared that a kingdom was breaking into our world, a kingdom with new priorities and different values than the kingdoms of this world.</synopsis>
+		<genres>Clip</genres>
+		<runtime>559</runtime>
+	</item>
+</feed>
