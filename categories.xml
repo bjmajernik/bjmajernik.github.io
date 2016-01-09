@@ -5,7 +5,7 @@
 	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
 	  
 	<category title="Christ Community" description="The Life We Long to Live" sd_img="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Focus-SD-248x140-ccefc.jpg" hd_img="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Focus-HD-336x210-ccefc.jpg">
-		<categoryLeaf title="Course One" description="" feed="https://dl.dropboxusercontent.com/u/36557447/roku_beta/xml/courseOne.xml"/>
-		<categoryLeaf title="Course Two" description="" feed="https://dl.dropboxusercontent.com/u/36557447/roku_beta/xml/courseTwo.xml"/>
+		<categoryLeaf title="Course One" description="" feed="http://bjmajernik.github.io/courseOne.xml"/>
+		<categoryLeaf title="Course Two" description="" feed="http://bjmajernik.github.io/courseTwo.xml"/>
 	</category>
  </categories>
