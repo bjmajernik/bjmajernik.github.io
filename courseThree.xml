@@ -12,7 +12,7 @@
 		<streamFormat>mp4</streamFormat>
 		<media>
 			<streamBitrate>600</streamBitrate>
-			<streamUrl>https://player.vimeo.com/external/151718093.hd.mp4?s=bb55cd69ab0f7f2d1fe150d31c6c8dd813d01dac&profile_id=113</streamUrl>
+			<streamUrl>https://player.vimeo.com/external/151718093.hd.mp4?s=bb55cd69ab0f7f2d1fe150d31c6c8dd813d01dac&amp;profile_id=113</streamUrl>
 		</media>
 		<synopsis>There is a gap between the life we long for and the life we live. How is this gap closed?</synopsis>
 		<genres>Clip</genres>
