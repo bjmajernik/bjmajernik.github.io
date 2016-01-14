@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>6</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>6</endIndex>
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-SD-214x144-1-tome.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-HD-290x218-1-tome.jpg">
+		<title>The Great Invitation</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>600</streamBitrate>
+			<streamUrl>https://player.vimeo.com/external/151718093.hd.mp4?s=bb55cd69ab0f7f2d1fe150d31c6c8dd813d01dac&profile_id=113</streamUrl>
+		</media>
+		<synopsis>There is a gap between the life we long for and the life we live. How is this gap closed?</synopsis>
+		<genres>Clip</genres>
+		<runtime>1147</runtime>
+	</item>	
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-SD-214x144-2-thecross.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-HD-290x218-2-thecross.jpg">
+		<title>Come To Me</title>
+		<contentId>10002</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/84047571.hd.mp4?s=b65a9a2b6819e5f292eb1ef6a55bd2e8</streamUrl>
+		</media>
+		<synopsis>How does the cross change the way we look at our fears and hopes?</synopsis>
+		<genres>Clip</genres>
+		<runtime>1208</runtime>
+	</item>	
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-SD-214x144-3-theyoke.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-HD-290x218-3-theyoke.jpg">
+		<title>All Who Labor</title>
+		<contentId>10003</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/83680024.hd.mp4?s=fc15af58a03905e04730116f78f6c87b</streamUrl>
+		</media>
+		<synopsis>Without being yoked to Jesus, we cannot live the life we long to live.</synopsis>
+		<genres>Clip</genres>
+		<runtime>1236</runtime>
+	</item>	
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-SD-214x144-4-theBible.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-HD-290x218-4-theBible.jpg">
+		<title>Rest</title>
+		<contentId>10004</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/83639165.hd.mp4?s=502a037953b3d5c15407f776e45812e1</streamUrl>
+		</media>
+		<synopsis>If there is a God who made us and speaks to us, what could be more important? As we pursue the life we long to live, the Bible is essential.</synopsis>
+		<genres>Clip</genres>
+		<runtime>1191</runtime>
+	</item>
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-SD-214x144-5-thechurch.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-HD-290x218-5-thechurch.jpg">
+		<title>Take My Yoke</title>
+		<contentId>10005</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/83624789.hd.mp4?s=809efde9046c5e41dc267dea512c4d4a</streamUrl>
+		</media>
+		<synopsis>How could anyone still maintain the priority and importance of the church in light of it being at times a source of great injustice, racism, and oppression?</synopsis>
+		<genres>Clip</genres>
+		<runtime>1290</runtime>
+	</item>
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-SD-214x144-6-thecity.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course1-Intro-HD-290x218-6-thecity.jpg">
+		<title>The Easy Yoke</title>
+		<contentId>10006</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>0</streamBitrate>
+			<streamUrl>http://player.vimeo.com/external/83602772.hd.mp4?s=c85def69351a8b7f5cbb99d6c27dea35</streamUrl>
+		</media>
+		<synopsis>The life we long to live invites us to give ourselves away in our vocations, in our neighborhood, city, and world.</synopsis>
+		<genres>Clip</genres>
+		<runtime>1242</runtime>
+	</item>
+</feed>
