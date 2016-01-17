@@ -4,7 +4,7 @@
 	<resultLength>6</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>6</endIndex>
-	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-SD-214x144-1-thegreatinvitation.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-HD-290x218-1-thegreatinvitation.jpg">
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-SD-214x144-1-thegreatinvitation.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-HD-290x218-1-thegreatinvitation.jpg">
 		<title>The Great Invitation</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
@@ -14,11 +14,11 @@
 			<streamBitrate>2000</streamBitrate>
 			<streamUrl>https://player.vimeo.com/external/151670191.hd.mp4?s=06a06d68041e138cdf0af2e436377d66a10af819&amp;profile_id=113</streamUrl>
 		</media>
-		<synopsis>There is a gap between the life we long for and the life we live. How is this gap closed?</synopsis>
+		<synopsis>Jesus’ yoke is central to understanding the life Jesus is calling us to live.</synopsis>
 		<genres>Clip</genres>
 		<runtime>643</runtime>
 	</item>	
-	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-SD-214x144-2-cometome.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-HD-290x218-2-cometome.jpg">
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-SD-214x144-2-cometome.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-HD-290x218-2-cometome.jpg">
 		<title>Come To Me</title>
 		<contentId>10002</contentId>
 		<contentType>Talk</contentType>
@@ -28,11 +28,11 @@
 			<streamBitrate>2000</streamBitrate>
 			<streamUrl>https://player.vimeo.com/external/151670192.hd.mp4?s=a9406bad2734f1181b494ca6d970b2c5fa6ea631&amp;profile_id=113</streamUrl>
 		</media>
-		<synopsis>How does the cross change the way we look at our fears and hopes?</synopsis>
+		<synopsis>Jesus invites us into apprenticeship.</synopsis>
 		<genres>Clip</genres>
 		<runtime>525</runtime>
 	</item>	
-	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-SD-214x144-3-allwholabor.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-HD-290x218-3-allwholabor.jpg">
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-SD-214x144-3-allwholabor.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-HD-290x218-3-allwholabor.jpg">
 		<title>All Who Labor</title>
 		<contentId>10003</contentId>
 		<contentType>Talk</contentType>
@@ -42,11 +42,11 @@
 			<streamBitrate>2000</streamBitrate>
 			<streamUrl>https://player.vimeo.com/external/151718093.hd.mp4?s=bb55cd69ab0f7f2d1fe150d31c6c8dd813d01dac&amp;profile_id=113</streamUrl>
 		</media>
-		<synopsis>Without being yoked to Jesus, we cannot live the life we long to live.</synopsis>
+		<synopsis>Work is intergral in the life of an apprentice.</synopsis>
 		<genres>Clip</genres>
 		<runtime>694</runtime>
 	</item>	
-	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-SD-214x144-4-rest.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-HD-290x218-4-rest.jpg">
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-SD-214x144-4-rest.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-HD-290x218-4-rest.jpg">
 		<title>Rest</title>
 		<contentId>10004</contentId>
 		<contentType>Talk</contentType>
@@ -56,11 +56,11 @@
 			<streamBitrate>2000</streamBitrate>
 			<streamUrl>https://player.vimeo.com/external/151670252.hd.mp4?s=ef4255f821d07456de4ff61f5de0ce776bd2d85e&amp;profile_id=113</streamUrl>
 		</media>
-		<synopsis>If there is a God who made us and speaks to us, what could be more important? As we pursue the life we long to live, the Bible is essential.</synopsis>
+		<synopsis>Rest is essential in maintaining wholeness of soul.</synopsis>
 		<genres>Clip</genres>
 		<runtime>631</runtime>
 	</item>
-	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-SD-214x144-5-takemyyoke.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-HD-290x218-5-takemyyoke.jpg">
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-SD-214x144-5-takemyyoke.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-HD-290x218-5-takemyyoke.jpg">
 		<title>Take My Yoke</title>
 		<contentId>10005</contentId>
 		<contentType>Talk</contentType>
@@ -70,11 +70,11 @@
 			<streamBitrate>2000</streamBitrate>
 			<streamUrl>https://player.vimeo.com/external/151670249.hd.mp4?s=22f7d839b2d27a6bfecffb4680b6e1800fc37e17&amp;profile_id=113</streamUrl>
 		</media>
-		<synopsis>How could anyone still maintain the priority and importance of the church in light of it being at times a source of great injustice, racism, and oppression?</synopsis>
+		<synopsis>Jesus invites us to take on His yoke.</synopsis>
 		<genres>Clip</genres>
 		<runtime>659</runtime>
 	</item>
-	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-SD-214x144-6-theeasyyoke.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_beta/images/Roku-Course3-theYoke-HD-290x218-6-theeasyyoke.jpg">
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-SD-214x144-6-theeasyyoke.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course3-theYoke-HD-290x218-6-theeasyyoke.jpg">
 		<title>The Easy Yoke</title>
 		<contentId>10006</contentId>
 		<contentType>Talk</contentType>
@@ -84,7 +84,7 @@
 			<streamBitrate>2000</streamBitrate>
 			<streamUrl>https://player.vimeo.com/external/151670250.hd.mp4?s=bf976a0f75f7388f1766d5a26588383d87d298b9&amp;profile_id=113</streamUrl>
 		</media>
-		<synopsis>The life we long to live invites us to give ourselves away in our vocations, in our neighborhood, city, and world.</synopsis>
+		<synopsis>Jesus' yoke is not what we might expect.</synopsis>
 		<genres>Clip</genres>
 		<runtime>615</runtime>
 	</item>
