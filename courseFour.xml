@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>6</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>6</endIndex>
+	<item sdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course4-Session1-SD.jpg" hdImg="https://dl.dropboxusercontent.com/u/36557447/roku_prod/images/Roku-Course4-Session1-HD.jpg">
+		<title>The Necessary Word</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>HD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamBitrate>2000</streamBitrate>
+			<streamUrl>https://www.youtube.com/watch?v=a2b2l2Ocb5k</streamUrl>
+		</media>
+		<synopsis>The Bible is central to understanding the life Jesus is calling us to live.</synopsis>
+		<genres>Clip</genres>
+		<runtime>402</runtime>
+	</item>	
+</feed>
